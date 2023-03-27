@@ -4,7 +4,7 @@
 - The function writes output to standard output.
 - This project involves most of the major concepts of C programming language.
 - The project calls in various variadic functions.
-- The project was done as a team work with 2 contributors - [Victor Kalu](https://github.com/chesahkalu) and [Mayen Kalu](https://github.com/MayKay47),
+- The project was done as a team work with 2 contributors - [Kola Oyeyemi](https://github.com/Kola-Oyeyemi) and [Jubilant Agida](https://github.com/SirJubilant),
  with the intention of learning more about team colaboration using Git and also enabling work flow with so many files.
 ## Description:
 The function `_printf` uses the PROTOTYPE ```int _printf(const char *format, ...);```. 
@@ -111,6 +111,6 @@ Output:
 ```
 
 ## Authors :black_nib:
-[Victor Kalu](https://github.com/chesahkalu)
+[Kola Oyeyemi](https://github.com/Kola-Oyeyemi)
 
-[Mayen Kalu](https://github.com/MayKay47)
+[Jubilant Agida](https://github.com/SirJubilant)
